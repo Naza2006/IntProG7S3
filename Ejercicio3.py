@@ -6,6 +6,7 @@ segurosoc=salbru*0.05
 fondopen=salbru*0.03
 desctotl=(imprenta+segurosoc+fondopen)
 slnet=salbru-desctotl
-print("El salario bruto es: ", salbru)
-print("El descuento total es: ", desctotl)
-print("El salario neto es: ", slnet)
+
+print("El salario bruto es de: ", salbru)
+print("El descuento total es de: ", desctotl)
+print("El salario neto es de: ", slnet)

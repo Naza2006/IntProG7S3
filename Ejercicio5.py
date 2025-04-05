@@ -1,3 +1,5 @@
+#Conversión de unidades de tiempo 
+
 print("Conversion de segundos a horas, minutos y segundos")
 print("-"*60)
 cantidad_segundos = int(input("Digite la cantidad de segundos: "))
